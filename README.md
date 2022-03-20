@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Javascript projects**
 
-- 🌱 I’m currently learning **Javascript, Jquery and ReactJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alone-Y154](https://github.com/Alone-Y154)
 
