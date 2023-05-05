@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Krishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **a Javascript projects**
+- 🔭 I’m currently working on **a ReactJS projects**
 
 - 🌱 I’m currently learning **ReactJs**
 
