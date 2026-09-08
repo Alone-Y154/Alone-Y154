@@ -1,28 +1,70 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Krishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Yashwanth Krishna 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alone-y154&label=Profile%20views&color=0e75b6&style=flat" alt="alone-y154" /> </p>
+Senior Frontend Engineer building production React/TypeScript systems by day, and four independent live products by night.
 
-<p align="left"> <a href="https://twitter.com/yashwanth_kris_" target="blank"><img src="https://img.shields.io/twitter/follow/yashwanth_kris_?logo=twitter&style=for-the-badge" alt="yashwanth_kris_" /></a> </p>
+**4 years** shipping enterprise-scale frontend — 200+ components across 10,000+ pages, and a 24/7 AI-avatar system live in two airports. Outside client work, I design, build, and operate my own products end to end under **YK Builds**.
 
-- 🔭 I’m currently working on **a ReactJS project**
+![Profile views](https://komarev.com/ghpvc/?username=alone-y154&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **ReactJs**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alone-Y154](https://github.com/Alone-Y154)
+## 🚀 What I've shipped
 
-- 📫 How to reach me **yashwanthkris154@gmail.com**
+### [ContextForge](https://contextforge.org) — Open-source AI-agent CLI & registry
+One command makes any repo AI-agent ready for Codex, Claude Code, Cursor, and GitHub Copilot.
+- Registry-powered CLI (`npx @contextforge/cli init`) — **1,000+ npm downloads within 15 hours of launch**
+- Public, statically served registry fully decoupled from the CLI release cycle
+- 20+ MIT-licensed instruction packs, stack-aware auto-detection
+- 📦 [npm](https://www.npmjs.com/package/@contextforge/cli) · 📖 [docs](https://contextforge.org) · [source](https://github.com/alone-y154/ContextForge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashwanth_kris_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashwanth_kris_" height="30" width="40" /></a>
+### [QwikPass](https://qwikpass.in) — Multi-tenant restaurant operations SaaS
+Digital queue, counter billing, invoicing, and kitchen state in one workspace.
+- Organisation → outlet → role RBAC with backend-enforced permissions
+- Razorpay Connect integration so merchant funds settle directly to the restaurant
+- Metered subscription engine across four plan tiers with per-outlet usage counters
+- *(private repo — live product, ask me for a walkthrough)*
+
+### [Decisra](https://decisra.com) — Real-time audio decision platform
+Audio-only, ephemeral decision space with scoped AI assistance.
+- Hybrid WebSocket + SSE pipeline for zero-loss UI state sync across concurrent users
+- LLM assistant bound strictly to a single declared decision scope — no context leakage
+- Fully ephemeral architecture — zero persistent storage, JWT-based session access
+
+### [HealthLens](https://healthlens.app) — AI medical report companion
+Reads lab reports, explains every marker in plain language, and flags concerns — without diagnosing.
+- OCR + rule-based marker extraction, configurable reference-range engine
+- Controlled LLM workflows validated to withhold diagnostic output
+- On-device storage — medical data never touches a server
+
+---
+
+## 🛠️ Core stack
+
+**Frontend** React · Next.js · React Native (Expo) · TypeScript · Redux Toolkit · TailwindCSS
+**Backend** Node.js · Express · REST · GraphQL · Microservices
+**Real-time** WebSockets · Server-Sent Events · WebRTC
+**Data** MongoDB · PostgreSQL · Redis
+**Cloud** Docker · Google Cloud Run · Vercel
+**AI/LLM** RAG architecture · prompt engineering · AI-agent instruction design
+
+---
+
+## 📊 GitHub stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alone-y154&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alone-y154&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alone-y154&show_icons=true&locale=en&layout=compact" alt="alone-y154" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alone-y154" alt="GitHub streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alone-y154&show_icons=true&locale=en" alt="alone-y154" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alone-y154&" alt="alone-y154" /></p>
+## 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/ykbuilds) · yashwanthkris153@gmail.com · [ykbuilds.dev](https://ykbuilds.dev)
